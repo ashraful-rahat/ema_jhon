@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './component/Hedaer/Header';
-import Shop from './component/shop/shop';
+import Shop from './component/shop/Shop';
 
 const App = () => {
   return (
